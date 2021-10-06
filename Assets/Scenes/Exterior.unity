@@ -273,7 +273,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-102222
+  m_Name: pb_Mesh43100
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1945,7 +1945,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 583815958}
-  m_VersionIndex: 13064
+  m_VersionIndex: 13115
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
